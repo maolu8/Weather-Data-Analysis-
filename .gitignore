@@ -1,0 +1,26 @@
+# Assembled object files and program 
+*.o
+*.out
+*.exe
+
+# Build files 
+build/
+*.dSYM/
+
+# Created data or txt files
+*.txt
+*.csv
+
+# Temp or exchange files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files 
+*.bak
+*.tmp
