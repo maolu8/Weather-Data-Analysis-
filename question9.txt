@@ -1,0 +1,4 @@
+Century:    Average Land Temperature:   Low Temperature:    High Temperature:
+19th                          8.129                        -5.407                        20.733
+20th                          8.638                        -4.298                        20.972
+21th                          9.542                        -2.383                        21.320
